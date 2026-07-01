@@ -1,1 +1,3 @@
-# homepage
+# Homepage
+
+This project consist of 1 page that shows an example of a homepage with a responsive design that adjusts the interface based on the viewport. Semantics are also used to assist screen readers in giving context to the information presented in the page. Different web accessibility features are also implemented to help disabled users navigate the site giving them ease of access and targeting as much demographic as possible.
